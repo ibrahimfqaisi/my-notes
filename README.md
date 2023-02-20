@@ -3,7 +3,7 @@ Hello everyone, my name is Ibrahim Adnan, and I am a mechanical engineer who is 
 
 # today we take the second class
 ## there are many thiny we **learned** it such as :
- 1. use  ***ls** comund.
- 2. use ***touch*** comund.
+ 1. use  ***ls*** command.
+ 2. use ***touch*** command.
  3. doing  A-C-P ***(add, commit, push)***.
- 4. use *** git clone *** comund.
+ 4. use ***git clone*** command.
